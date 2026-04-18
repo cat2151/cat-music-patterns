@@ -72,12 +72,12 @@
     "description": "ジャズの一般的なターンアラウンド（ツーファイブワンシックス）"
   },
   {
-    "degrees": "I-VI-ii-V",
+    "degrees": "I-vi-ii-V",
     "description": "ジャズのリズムチェンジA部に代表される「1625進行」"
   },
   {
     "degrees": "I-VI-II-V",
-    "description": "セカンダリードミナントII7を含む「1625進行」の変形"
+    "description": "「1625進行」の変形"
   },
   {
     "degrees": "IM7-vim7-iim7-V7",
@@ -200,12 +200,12 @@
     "description": "オーグメントコードで半音上行感を出すドラマチックな進行"
   },
   {
-    "degrees": "I-Iaug-IVM7-IVm",
+    "degrees": "I-Iaug-IVM7-iv",
     "description": "クロマチックな下降低音ラインを持つ「虹の彼方に」型進行"
   },
   {
     "degrees": "I-II-IV-I",
-    "description": "V/Vを含むブルース・ゴスペルの定番進行"
+    "description": "メジャーIIを含むブルース・ゴスペルの定番進行"
   },
   {
     "degrees": "bVII-IV-I",
