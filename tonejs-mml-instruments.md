@@ -66,6 +66,28 @@
 }
 ```
 
+## Flanger Saw
+```tonejs-mml
+@Synth{
+  "oscillator": {
+    "type": "sawtooth"
+  }
+} @Chorus{
+  "frequency": 0.2,
+  "delayTime": 3,
+  "depth": 0.9
+}
+```
+
+## Super Saw
+```tonejs-mml
+@Synth{
+  "oscillator": {
+    "type": "fatsawtooth"
+  }
+}
+```
+
 ## DuoSynth
 
 ```tonejs-mml
