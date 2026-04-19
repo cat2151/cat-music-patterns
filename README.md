@@ -1,5 +1,8 @@
 # cat-music-patterns
 
-Purpose: Used by cmrt-client-playground
+## Usage
+- Used by cmrt-client-playground
+  - Chord progressions
+  - Tone.js sound (when in Tone.js mode and cmrt is not running locally)
 
-Expect frequent breaking changes.
+## Frequent Breaking Changes
