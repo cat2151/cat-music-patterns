@@ -7,6 +7,8 @@
 - cmrtから利用
   - `surge-xt-patch-voicing.json` : keyboard画面でのchord/アルペジオ の判別用（自動判別結果）
   - `surge-xt-patch-voicing-overrides.json` : 上に同じ（手動補正結果）
+- cat-plugin-playerから利用
+  - `surge-xt-patch-catalog.json` : cmrt の無い環境で Surge XT の音色を選ぶ catalog（Surge XT 1.3.4 から生成）
 
 ## いろいろ
 
