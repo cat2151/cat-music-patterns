@@ -9,6 +9,7 @@
   - `surge-xt-patch-voicing-overrides.json` : 上に同じ（手動補正結果）
 - cat-plugin-playerから利用
   - `surge-xt-patch-catalog.json` : cmrt の無い環境で Surge XT の音色を選ぶ catalog（Surge XT 1.3.4 から生成）
+  - `surge-xt-fx-states.json` : Surge XT Effects の preset ごとの準備済み state。`.srgfx` の SHA-256 で引く（Surge XT 1.3.4 から生成）
 
 ## いろいろ
 
