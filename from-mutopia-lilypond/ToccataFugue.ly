@@ -419,7 +419,7 @@ staffChurchOrgan = <<
 					%135
 					s32 d[ c d] b s8 c32[ b c] a s8 b32[ a b] s a g a s gis[ fis gis] e s16. \break
 					%136
-					s32 d c b s e d c s f e d s g f e s a g f s g a b c4^\markup { \bold "Adagio Vivave" } |
+					s32 d c b s e d c s f e d s g f e s a g f s g a b c4^\markup { \bold "Adagio Vivace" } |
 					%137
 					cis8 s cis cis d s d d |
 					%138

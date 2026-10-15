@@ -57,7 +57,10 @@
    (make-performer
     (listeners
      ((tempo-change-event performer event)
-      (let ((text (ly:event-property event 'text #f)))
+      (let ((text (ly:event-property event 'text #f))
+            (count (ly:event-property event 'metronome-count #f)))
+        (if count
+            (log-text-event performer "tempo-numeric" ""))
         (if text
             (log-text-event performer "tempo" (markup->string text))))))))
 
